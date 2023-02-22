@@ -1,0 +1,26 @@
+{
+  "light": {
+    "theme_name": "light",
+    "body": "#fff",
+    "text": "#112132",
+    "btnBg": "#112132",
+    "btnBgFade": "#555",
+    "btnText": "#fafafa",
+    "btnBorderColor": "#112132",
+    "grayShade10": "#eee",
+    "grayShade100": "#ccc",
+    "grayShade200": "#555"
+  },
+  "dark": {
+    "theme_name": "dark",
+    "body": "#181818",
+    "text": "#eee",
+    "btnBg": "#fafafa",
+    "btnBgFade": "#aaa",
+    "btnText": "#112132",
+    "btnBorderColor": "#fafafa",
+    "grayShade10": "#333",
+    "grayShade100": "#555",
+    "grayShade200": "#aaa"
+  }
+}

@@ -1,0 +1,21 @@
+@import 'antd/dist/reset.css';
+
+html {margin: 0; height: 100%; width: auto;}
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#error-page {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  /* text-align: center; */
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
